@@ -4,7 +4,7 @@ Welcome to the **3D 3D Solar System Simulator** project, a dynamic and interacti
 
 ![Solar_System](images/solar_system.png)
 
-![Earth](images/earth.png)
+![Earth](images/earthnew.png)
 
 ![Mercury](images/mercury.png)
 
