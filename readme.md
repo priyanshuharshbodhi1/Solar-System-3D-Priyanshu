@@ -2,7 +2,7 @@
 
 Welcome to the **3D 3D Solar System Simulator** project, a dynamic and interactive simulation of our solar system created using THREE.js and the Vite framework. This project showcases various advanced features and effects to provide an immersive experience of the celestial bodies in our solar system. The project is fully created by priyanshu Harshbodhi.
 
-Overview available at: https://w21030911.nuwebspace.co.uk/graphics/assessment/
+Some screenshots
 
 ![Solar_System](images/solar_system.png)
 
